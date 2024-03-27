@@ -1,0 +1,14 @@
+C:\Users\Bruno\Desktop\Estudios\C#\bin\Debug\net8.0\C#.exe
+C:\Users\Bruno\Desktop\Estudios\C#\bin\Debug\net8.0\C#.deps.json
+C:\Users\Bruno\Desktop\Estudios\C#\bin\Debug\net8.0\C#.runtimeconfig.json
+C:\Users\Bruno\Desktop\Estudios\C#\bin\Debug\net8.0\C#.dll
+C:\Users\Bruno\Desktop\Estudios\C#\bin\Debug\net8.0\C#.pdb
+C:\Users\Bruno\Desktop\Estudios\C#\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Desktop\Estudios\C#\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Estudios\C#\obj\Debug\net8.0\C#.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Estudios\C#\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Estudios\C#\obj\Debug\net8.0\C#.dll
+C:\Users\Bruno\Desktop\Estudios\C#\obj\Debug\net8.0\refint\C#.dll
+C:\Users\Bruno\Desktop\Estudios\C#\obj\Debug\net8.0\C#.pdb
+C:\Users\Bruno\Desktop\Estudios\C#\obj\Debug\net8.0\C#.genruntimeconfig.cache
+C:\Users\Bruno\Desktop\Estudios\C#\obj\Debug\net8.0\ref\C#.dll
